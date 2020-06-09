@@ -1,0 +1,1001 @@
+"";"Status";"Credit.history";"Purpose";"Savings.account";"Installment.rate";"Personal.status.and.sex";"Number.of.existing.credits";"Job";"Number.of.people";"foreign.worker";"Class"
+"1";"<0 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"2";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"3";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";2;"male: single";1;"unskilled - resident";2;"yes";1
+"4";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";2;"yes";1
+"5";"<0 DM";"delay in paying off in the past";"car (new)";"<100 DM";3;"male: single";2;"skilled employee / official";2;"yes";2
+"6";"no checking account";"existing credits paid back duly till now";"(vacation - does not exist?)";"unknown/ no savings account";2;"male: single";1;"unskilled - resident";2;"yes";1
+"7";"no checking account";"existing credits paid back duly till now";"radio/television";"500-1000 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"8";"0-200 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"9";"no checking account";"existing credits paid back duly till now";"domestic appliances";">=1000 DM";2;"male: divorced/separated";1;"unskilled - resident";1;"yes";1
+"10";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: married/widowed";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"11";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"12";"<0 DM";"existing credits paid back duly till now";"business";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"13";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"14";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"unskilled - resident";1;"yes";2
+"15";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"16";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"17";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"18";"<0 DM";"no credits taken/all credits paid back duly";"business";"unknown/ no savings account";2;"male: single";3;"skilled employee / official";1;"yes";1
+"19";"0-200 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"20";"no checking account";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";3;"male: single";1;"skilled employee / official";2;"yes";1
+"21";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";3;"skilled employee / official";1;"yes";1
+"22";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";2;"male: single";1;"skilled employee / official";2;"yes";1
+"23";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"male: single";2;"unskilled - resident";2;"no";1
+"24";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (used)";"100-500 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"25";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"unknown/ no savings account";2;"male: married/widowed";2;"skilled employee / official";1;"no";1
+"26";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"male: single";1;"unskilled - resident";1;"yes";1
+"27";"no checking account";"no credits taken/all credits paid back duly";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"28";">=200 DM";"all credits at this bank paid back duly";"domestic appliances";">=1000 DM";3;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"29";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"30";"<0 DM";"delay in paying off in the past";"business";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";2
+"31";"0-200 DM";"existing credits paid back duly till now";"business";">=1000 DM";3;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"32";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"33";"0-200 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"34";"no checking account";"critical account/other credits existing (not at this bank)";"business";"unknown/ no savings account";4;"male: single";1;"unskilled - resident";1;"yes";1
+"35";">=200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"36";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";2;"unskilled - resident";1;"yes";2
+"37";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";1;"male: single";1;"skilled employee / official";1;"yes";1
+"38";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"39";">=200 DM";"existing credits paid back duly till now";"repairs";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"40";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"41";"no checking account";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"42";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";3;"male: divorced/separated";1;"skilled employee / official";1;"yes";1
+"43";"0-200 DM";"delay in paying off in the past";"education";"<100 DM";2;"male: single";1;"unskilled - resident";2;"yes";1
+"44";"<0 DM";"critical account/other credits existing (not at this bank)";"car (used)";"100-500 DM";1;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"45";"<0 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";4;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";2
+"46";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"47";"no checking account";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"48";"<0 DM";"existing credits paid back duly till now";"car (used)";"500-1000 DM";1;"female: divorced/separated/married";1;"unemployed/ unskilled  - non-resident";1;"yes";1
+"49";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"male: single";2;"unskilled - resident";1;"yes";1
+"50";"no checking account";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"51";"0-200 DM";"delay in paying off in the past";"radio/television";"unknown/ no savings account";4;"male: single";1;"unskilled - resident";1;"yes";1
+"52";"0-200 DM";"delay in paying off in the past";"car (used)";"<100 DM";1;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"53";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"54";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";2;"male: single";1;"skilled employee / official";1;"yes";1
+"55";"0-200 DM";"delay in paying off in the past";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";2
+"56";"no checking account";"all credits at this bank paid back duly";"car (new)";"unknown/ no savings account";1;"male: single";1;"unskilled - resident";2;"yes";1
+"57";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"58";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"59";">=200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"60";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";2
+"61";"0-200 DM";"existing credits paid back duly till now";"business";"<100 DM";2;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"62";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"63";"0-200 DM";"no credits taken/all credits paid back duly";"business";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"64";"0-200 DM";"no credits taken/all credits paid back duly";"business";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"65";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"66";"no checking account";"existing credits paid back duly till now";"education";"unknown/ no savings account";4;"male: single";4;"skilled employee / official";2;"yes";1
+"67";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"68";"0-200 DM";"existing credits paid back duly till now";"car (new)";">=1000 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"69";"no checking account";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"70";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"71";"no checking account";"existing credits paid back duly till now";"car (used)";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"72";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"unskilled - resident";1;"yes";1
+"73";"<0 DM";"critical account/other credits existing (not at this bank)";"furniture/equipment";"<100 DM";3;"male: single";2;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"74";"0-200 DM";"critical account/other credits existing (not at this bank)";"business";"<100 DM";2;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"75";"<0 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"unknown/ no savings account";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"76";"<0 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"77";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"78";"0-200 DM";"delay in paying off in the past";"domestic appliances";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"79";"no checking account";"no credits taken/all credits paid back duly";"car (used)";"unknown/ no savings account";2;"male: single";1;"unskilled - resident";2;"yes";1
+"80";"0-200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"81";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"82";"no checking account";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"83";"no checking account";"existing credits paid back duly till now";"business";"100-500 DM";3;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"84";"<0 DM";"existing credits paid back duly till now";"furniture/equipment";"<100 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"85";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: single";1;"unskilled - resident";1;"yes";1
+"86";"no checking account";"critical account/other credits existing (not at this bank)";"business";"<100 DM";4;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"87";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"88";"0-200 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"100-500 DM";1;"male: single";1;"skilled employee / official";2;"yes";2
+"89";"<0 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"90";"<0 DM";"no credits taken/all credits paid back duly";"education";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";2
+"91";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"92";"<0 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"93";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"female: divorced/separated/married";1;"unskilled - resident";2;"yes";2
+"94";">=200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"95";"0-200 DM";"existing credits paid back duly till now";"car (new)";">=1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"96";"0-200 DM";"no credits taken/all credits paid back duly";"business";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";2
+"97";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"98";"0-200 DM";"existing credits paid back duly till now";"business";"100-500 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"99";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"100";"0-200 DM";"delay in paying off in the past";"car (used)";"unknown/ no savings account";3;"male: single";2;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"101";"no checking account";"existing credits paid back duly till now";"car (new)";"100-500 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"102";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"103";"no checking account";"delay in paying off in the past";"domestic appliances";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"104";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"105";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";2;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"106";"0-200 DM";"critical account/other credits existing (not at this bank)";"furniture/equipment";"<100 DM";2;"male: single";2;"management/ self-employed/highly qualified employee/ officer";2;"yes";2
+"107";"no checking account";"all credits at this bank paid back duly";"car (new)";"<100 DM";2;"male: single";2;"management/ self-employed/highly qualified employee/ officer";2;"yes";2
+"108";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"109";"<0 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";1;"female: divorced/separated/married";1;"skilled employee / official";1;"no";1
+"110";"0-200 DM";"existing credits paid back duly till now";"business";"500-1000 DM";1;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"111";"0-200 DM";"delay in paying off in the past";"business";"100-500 DM";1;"male: divorced/separated";2;"skilled employee / official";2;"yes";1
+"112";">=200 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"113";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"male: single";1;"unskilled - resident";1;"yes";1
+"114";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"115";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";3;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"116";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"117";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"118";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"unknown/ no savings account";2;"female: divorced/separated/married";2;"skilled employee / official";1;"no";1
+"119";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"500-1000 DM";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"120";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"500-1000 DM";3;"male: divorced/separated";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"121";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"122";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";4;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"123";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";3;"male: single";1;"unskilled - resident";1;"yes";1
+"124";">=200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"125";"0-200 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"126";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"127";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"128";"0-200 DM";"existing credits paid back duly till now";"education";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"129";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"130";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";3;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"131";"0-200 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"132";"<0 DM";"delay in paying off in the past";"(vacation - does not exist?)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"133";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";2;"unskilled - resident";1;"yes";1
+"134";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"135";"no checking account";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"136";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"137";"no checking account";"delay in paying off in the past";"car (used)";">=1000 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"138";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";4;"male: single";1;"unskilled - resident";1;"yes";2
+"139";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";3;"skilled employee / official";1;"yes";1
+"140";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"141";">=200 DM";"existing credits paid back duly till now";"car (new)";">=1000 DM";2;"male: married/widowed";1;"unemployed/ unskilled  - non-resident";1;"no";1
+"142";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"143";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"144";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"145";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"146";"0-200 DM";"all credits at this bank paid back duly";"business";"100-500 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"147";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"148";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"100-500 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"149";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";1
+"150";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";">=1000 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"151";"no checking account";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";2;"male: single";1;"skilled employee / official";2;"yes";1
+"152";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";1;"male: single";1;"skilled employee / official";1;"no";1
+"153";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"154";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (used)";">=1000 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"155";"0-200 DM";"delay in paying off in the past";"business";"100-500 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"156";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"157";"<0 DM";"critical account/other credits existing (not at this bank)";"education";"100-500 DM";3;"male: single";2;"skilled employee / official";2;"no";1
+"158";"<0 DM";"all credits at this bank paid back duly";"retraining";"<100 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"159";"0-200 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"160";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";1;"male: single";2;"unskilled - resident";2;"yes";1
+"161";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"100-500 DM";3;"male: single";1;"skilled employee / official";2;"yes";1
+"162";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"163";"no checking account";"existing credits paid back duly till now";"repairs";"500-1000 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"164";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"165";"no checking account";"existing credits paid back duly till now";"car (new)";"500-1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"166";"no checking account";"existing credits paid back duly till now";"radio/television";"500-1000 DM";1;"male: single";1;"skilled employee / official";1;"yes";1
+"167";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"168";"0-200 DM";"existing credits paid back duly till now";"radio/television";">=1000 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"169";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"170";"0-200 DM";"critical account/other credits existing (not at this bank)";"business";"<100 DM";4;"male: divorced/separated";2;"skilled employee / official";1;"yes";2
+"171";"<0 DM";"no credits taken/all credits paid back duly";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";2;"yes";2
+"172";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"173";"0-200 DM";"delay in paying off in the past";"radio/television";"<100 DM";3;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"174";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"no";1
+"175";"<0 DM";"delay in paying off in the past";"(vacation - does not exist?)";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";2
+"176";"no checking account";"all credits at this bank paid back duly";"car (used)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"177";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: divorced/separated";1;"skilled employee / official";1;"yes";1
+"178";"<0 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"500-1000 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"179";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"180";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"181";"no checking account";"delay in paying off in the past";"business";"<100 DM";1;"male: divorced/separated";2;"skilled employee / official";1;"yes";2
+"182";"0-200 DM";"delay in paying off in the past";"business";"<100 DM";2;"male: divorced/separated";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"183";"<0 DM";"all credits at this bank paid back duly";"car (new)";"unknown/ no savings account";4;"male: single";2;"unskilled - resident";2;"yes";2
+"184";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";">=1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"185";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";1;"skilled employee / official";2;"yes";2
+"186";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"187";"0-200 DM";"all credits at this bank paid back duly";"car (used)";"<100 DM";2;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";2;"yes";2
+"188";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";2;"male: single";3;"unemployed/ unskilled  - non-resident";1;"yes";1
+"189";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"190";"0-200 DM";"no credits taken/all credits paid back duly";"radio/television";"<100 DM";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"191";"no checking account";"existing credits paid back duly till now";"business";">=1000 DM";2;"male: single";3;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"192";"0-200 DM";"no credits taken/all credits paid back duly";"business";"100-500 DM";4;"male: single";1;"unskilled - resident";2;"yes";2
+"193";"0-200 DM";"existing credits paid back duly till now";"business";"<100 DM";4;"male: single";1;"skilled employee / official";2;"yes";2
+"194";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"195";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"196";"0-200 DM";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";2;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"197";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"198";"0-200 DM";"existing credits paid back duly till now";"radio/television";"100-500 DM";4;"female: divorced/separated/married";4;"skilled employee / official";1;"yes";2
+"199";"0-200 DM";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"200";"0-200 DM";"delay in paying off in the past";"radio/television";"<100 DM";4;"male: divorced/separated";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"201";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"500-1000 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"202";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"203";"no checking account";"delay in paying off in the past";"business";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";1
+"204";"<0 DM";"existing credits paid back duly till now";"retraining";"<100 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"205";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"unskilled - resident";2;"yes";1
+"206";"<0 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";3;"male: single";3;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"207";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"male: single";3;"skilled employee / official";1;"yes";1
+"208";"0-200 DM";"critical account/other credits existing (not at this bank)";"repairs";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"209";"<0 DM";"existing credits paid back duly till now";"business";"<100 DM";2;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"210";"no checking account";"existing credits paid back duly till now";"car (used)";">=1000 DM";3;"male: single";1;"skilled employee / official";1;"no";1
+"211";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";1;"male: single";2;"skilled employee / official";2;"yes";1
+"212";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";2;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"213";"<0 DM";"no credits taken/all credits paid back duly";"business";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";2
+"214";">=200 DM";"delay in paying off in the past";"business";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"215";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"216";"0-200 DM";"critical account/other credits existing (not at this bank)";"retraining";"unknown/ no savings account";1;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"217";"<0 DM";"no credits taken/all credits paid back duly";"business";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"218";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"219";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: divorced/separated";1;"unskilled - resident";1;"yes";1
+"220";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"221";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"222";"<0 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"223";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"224";"no checking account";"delay in paying off in the past";"business";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";2;"yes";1
+"225";"no checking account";"existing credits paid back duly till now";"car (used)";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"226";"no checking account";"no credits taken/all credits paid back duly";"education";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"227";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";">=1000 DM";1;"male: single";2;"skilled employee / official";1;"yes";2
+"228";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"229";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"230";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"231";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"232";"no checking account";"existing credits paid back duly till now";"car (new)";"500-1000 DM";2;"male: single";1;"unskilled - resident";1;"yes";1
+"233";"no checking account";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"234";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"235";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";2;"male: single";3;"unskilled - resident";2;"yes";1
+"236";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";2;"yes";2
+"237";"0-200 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";1;"male: single";1;"unemployed/ unskilled  - non-resident";1;"yes";2
+"238";"0-200 DM";"existing credits paid back duly till now";"business";"100-500 DM";4;"male: divorced/separated";2;"unskilled - resident";1;"yes";2
+"239";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"240";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";1;"male: single";1;"skilled employee / official";2;"yes";1
+"241";"<0 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"242";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: single";1;"skilled employee / official";2;"yes";1
+"243";"<0 DM";"no credits taken/all credits paid back duly";"car (used)";"<100 DM";3;"male: single";2;"skilled employee / official";2;"yes";2
+"244";"no checking account";"critical account/other credits existing (not at this bank)";"business";"<100 DM";3;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"245";"no checking account";"all credits at this bank paid back duly";"retraining";"500-1000 DM";4;"female: divorced/separated/married";1;"unskilled - resident";2;"yes";1
+"246";"no checking account";"existing credits paid back duly till now";"business";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"247";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";3;"skilled employee / official";1;"yes";1
+"248";"no checking account";"no credits taken/all credits paid back duly";"car (new)";"100-500 DM";4;"male: single";1;"skilled employee / official";1;"no";1
+"249";">=200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"250";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"251";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";">=1000 DM";3;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"252";">=200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"253";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"254";"no checking account";"delay in paying off in the past";"radio/television";"100-500 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"255";"0-200 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";2;"male: single";1;"skilled employee / official";1;"yes";1
+"256";"0-200 DM";"delay in paying off in the past";"domestic appliances";"unknown/ no savings account";1;"male: single";1;"unskilled - resident";1;"yes";1
+"257";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";2;"unskilled - resident";1;"yes";1
+"258";"<0 DM";"all credits at this bank paid back duly";"domestic appliances";"<100 DM";4;"male: divorced/separated";1;"skilled employee / official";1;"yes";2
+"259";"no checking account";"existing credits paid back duly till now";"car (used)";"100-500 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"260";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"100-500 DM";4;"female: divorced/separated/married";3;"unskilled - resident";1;"yes";1
+"261";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"262";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"263";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";2;"male: single";3;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"264";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";2;"female: divorced/separated/married";3;"unskilled - resident";1;"yes";1
+"265";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";3;"male: single";2;"unskilled - resident";2;"no";1
+"266";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";2;"yes";2
+"267";"no checking account";"critical account/other credits existing (not at this bank)";"business";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"268";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"269";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";1;"male: divorced/separated";1;"management/ self-employed/highly qualified employee/ officer";1;"no";2
+"270";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"271";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"no";1
+"272";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"500-1000 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"273";"0-200 DM";"all credits at this bank paid back duly";"car (new)";"unknown/ no savings account";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"274";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";2
+"275";"<0 DM";"existing credits paid back duly till now";"education";"<100 DM";1;"male: divorced/separated";1;"unskilled - resident";1;"yes";2
+"276";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";1;"male: single";1;"skilled employee / official";2;"yes";1
+"277";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"278";"<0 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";2;"male: divorced/separated";1;"unskilled - resident";1;"yes";1
+"279";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"280";"no checking account";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"281";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";">=1000 DM";3;"male: single";2;"skilled employee / official";1;"yes";1
+"282";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"283";">=200 DM";"all credits at this bank paid back duly";"domestic appliances";"unknown/ no savings account";4;"male: single";1;"unskilled - resident";1;"yes";1
+"284";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"285";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"100-500 DM";4;"male: divorced/separated";1;"skilled employee / official";1;"yes";1
+"286";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"287";"<0 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";4;"male: single";1;"skilled employee / official";2;"yes";1
+"288";"0-200 DM";"delay in paying off in the past";"furniture/equipment";"100-500 DM";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"289";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"290";"<0 DM";"delay in paying off in the past";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"291";"no checking account";"existing credits paid back duly till now";"business";"<100 DM";2;"male: married/widowed";1;"skilled employee / official";1;"no";1
+"292";"0-200 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";1;"male: married/widowed";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"293";"<0 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";2;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"294";">=200 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"295";"no checking account";"critical account/other credits existing (not at this bank)";"business";"unknown/ no savings account";4;"male: divorced/separated";2;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"296";"0-200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"297";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"298";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"male: single";1;"unskilled - resident";1;"no";1
+"299";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"300";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";">=1000 DM";3;"male: single";2;"skilled employee / official";1;"yes";1
+"301";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";1;"female: divorced/separated/married";1;"unemployed/ unskilled  - non-resident";1;"yes";1
+"302";"0-200 DM";"no credits taken/all credits paid back duly";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"303";">=200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"unknown/ no savings account";4;"male: single";2;"unskilled - resident";2;"yes";2
+"304";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"305";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"500-1000 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"306";"no checking account";"existing credits paid back duly till now";"radio/television";">=1000 DM";4;"male: divorced/separated";1;"skilled employee / official";1;"yes";1
+"307";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";2;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"308";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";2
+"309";"0-200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"310";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"311";"0-200 DM";"existing credits paid back duly till now";"furniture/equipment";"unknown/ no savings account";3;"male: single";1;"unemployed/ unskilled  - non-resident";1;"yes";1
+"312";"no checking account";"existing credits paid back duly till now";"radio/television";"100-500 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"313";">=200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"314";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: married/widowed";1;"unskilled - resident";1;"yes";2
+"315";">=200 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";1;"male: single";1;"unskilled - resident";2;"no";1
+"316";"<0 DM";"all credits at this bank paid back duly";"radio/television";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"317";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"unskilled - resident";2;"yes";1
+"318";"0-200 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"319";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"320";"<0 DM";"delay in paying off in the past";"radio/television";"<100 DM";1;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"321";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: married/widowed";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"322";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: divorced/separated";1;"skilled employee / official";1;"yes";2
+"323";"<0 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"324";"<0 DM";"existing credits paid back duly till now";"radio/television";">=1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"325";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"326";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"male: single";2;"unskilled - resident";1;"no";1
+"327";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"unknown/ no savings account";2;"male: single";1;"skilled employee / official";1;"yes";1
+"328";"no checking account";"existing credits paid back duly till now";"car (new)";">=1000 DM";4;"female: divorced/separated/married";1;"skilled employee / official";2;"yes";1
+"329";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"330";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";2;"yes";1
+"331";"<0 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";2;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"332";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"100-500 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"333";"0-200 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"334";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"100-500 DM";2;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";2
+"335";"<0 DM";"no credits taken/all credits paid back duly";"radio/television";"<100 DM";3;"male: single";2;"skilled employee / official";2;"yes";2
+"336";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";1;"male: divorced/separated";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"337";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"338";"<0 DM";"existing credits paid back duly till now";"repairs";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"339";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"340";"0-200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: divorced/separated";1;"unskilled - resident";1;"yes";1
+"341";"0-200 DM";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"342";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"343";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";1;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"344";"0-200 DM";"existing credits paid back duly till now";"business";"<100 DM";1;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"345";">=200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";1;"male: single";1;"unskilled - resident";2;"yes";1
+"346";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"347";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"348";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";1;"female: divorced/separated/married";1;"unemployed/ unskilled  - non-resident";1;"yes";1
+"349";"no checking account";"delay in paying off in the past";"business";"100-500 DM";1;"male: single";2;"unskilled - resident";1;"yes";1
+"350";"0-200 DM";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";">=1000 DM";4;"male: single";2;"skilled employee / official";2;"yes";2
+"351";"no checking account";"existing credits paid back duly till now";"repairs";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"352";"0-200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"no";2
+"353";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"unknown/ no savings account";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"354";"<0 DM";"no credits taken/all credits paid back duly";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";2
+"355";"no checking account";"existing credits paid back duly till now";"(vacation - does not exist?)";"500-1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"356";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"unskilled - resident";1;"yes";2
+"357";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";1;"male: single";1;"skilled employee / official";1;"yes";1
+"358";"no checking account";"delay in paying off in the past";"domestic appliances";"<100 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"359";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"360";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"361";"0-200 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"362";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"363";">=200 DM";"delay in paying off in the past";"car (new)";"<100 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"364";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"365";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"unemployed/ unskilled  - non-resident";1;"yes";2
+"366";"no checking account";"existing credits paid back duly till now";"business";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"367";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";1
+"368";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"369";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"skilled employee / official";2;"yes";2
+"370";"0-200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"371";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"372";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";1
+"373";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"374";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"unknown/ no savings account";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"375";"0-200 DM";"all credits at this bank paid back duly";"furniture/equipment";"100-500 DM";3;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"376";"<0 DM";"all credits at this bank paid back duly";"business";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"377";"no checking account";"delay in paying off in the past";"domestic appliances";"<100 DM";2;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"378";"no checking account";"delay in paying off in the past";"domestic appliances";"unknown/ no savings account";3;"male: single";1;"skilled employee / official";1;"yes";1
+"379";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"380";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"100-500 DM";4;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"381";"<0 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"382";"0-200 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";3;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"383";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"384";">=200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"385";"no checking account";"delay in paying off in the past";"business";"100-500 DM";2;"male: single";2;"unskilled - resident";1;"yes";1
+"386";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"387";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"388";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"389";"0-200 DM";"critical account/other credits existing (not at this bank)";"business";"500-1000 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"390";"no checking account";"existing credits paid back duly till now";"business";"<100 DM";3;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"391";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: married/widowed";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"392";"0-200 DM";"existing credits paid back duly till now";"radio/television";">=1000 DM";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"393";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"394";"<0 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"395";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"396";"0-200 DM";"delay in paying off in the past";"(vacation - does not exist?)";"100-500 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"397";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";3;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"398";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";3;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"399";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";1;"male: divorced/separated";2;"skilled employee / official";1;"yes";2
+"400";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";">=1000 DM";4;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"401";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"402";"0-200 DM";"critical account/other credits existing (not at this bank)";"business";"unknown/ no savings account";4;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"403";"no checking account";"delay in paying off in the past";"business";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";2
+"404";"no checking account";"delay in paying off in the past";"car (new)";"<100 DM";4;"male: single";2;"unskilled - resident";1;"yes";1
+"405";"0-200 DM";"delay in paying off in the past";"car (new)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";2;"yes";1
+"406";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";1;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"407";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";2;"yes";1
+"408";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"skilled employee / official";1;"no";1
+"409";"no checking account";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";3;"male: divorced/separated";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"410";">=200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"500-1000 DM";4;"male: married/widowed";3;"skilled employee / official";1;"yes";2
+"411";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"412";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";3;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"413";"no checking account";"critical account/other credits existing (not at this bank)";"business";"<100 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"414";"no checking account";"existing credits paid back duly till now";"car (new)";"500-1000 DM";3;"male: single";1;"unskilled - resident";2;"no";1
+"415";"<0 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"416";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";2;"male: single";2;"skilled employee / official";2;"yes";1
+"417";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"unskilled - resident";2;"yes";2
+"418";"<0 DM";"delay in paying off in the past";"(vacation - does not exist?)";"unknown/ no savings account";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"419";"no checking account";"existing credits paid back duly till now";"car (new)";"500-1000 DM";1;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"420";"0-200 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"421";"no checking account";"existing credits paid back duly till now";"car (new)";">=1000 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"422";"0-200 DM";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"423";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";2;"male: single";2;"unskilled - resident";2;"yes";1
+"424";"no checking account";"delay in paying off in the past";"radio/television";"100-500 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"425";"0-200 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"426";"0-200 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";1;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"427";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"428";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";">=1000 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"429";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"male: single";1;"skilled employee / official";1;"yes";1
+"430";"<0 DM";"critical account/other credits existing (not at this bank)";"education";"<100 DM";2;"female: divorced/separated/married";3;"unemployed/ unskilled  - non-resident";2;"yes";2
+"431";"no checking account";"existing credits paid back duly till now";"business";"<100 DM";1;"male: single";1;"unskilled - resident";1;"yes";1
+"432";"0-200 DM";"existing credits paid back duly till now";"furniture/equipment";"<100 DM";2;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"433";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"male: single";3;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"434";"no checking account";"critical account/other credits existing (not at this bank)";"education";"<100 DM";4;"male: divorced/separated";2;"skilled employee / official";1;"yes";1
+"435";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"436";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";2;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"437";"no checking account";"existing credits paid back duly till now";"education";"500-1000 DM";2;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"438";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";">=1000 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"439";"<0 DM";"critical account/other credits existing (not at this bank)";"education";"<100 DM";4;"male: single";2;"unemployed/ unskilled  - non-resident";1;"yes";1
+"440";">=200 DM";"all credits at this bank paid back duly";"business";"<100 DM";4;"female: divorced/separated/married";1;"unemployed/ unskilled  - non-resident";1;"yes";2
+"441";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"442";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"443";"0-200 DM";"delay in paying off in the past";"furniture/equipment";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"444";"no checking account";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"male: single";1;"unskilled - resident";2;"yes";2
+"445";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"446";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"unknown/ no savings account";4;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"447";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"448";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"449";">=200 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";3;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"450";"0-200 DM";"delay in paying off in the past";"education";">=1000 DM";3;"male: married/widowed";2;"skilled employee / official";1;"yes";2
+"451";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"unknown/ no savings account";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"452";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"453";"no checking account";"no credits taken/all credits paid back duly";"radio/television";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"454";"no checking account";"existing credits paid back duly till now";"car (used)";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"455";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"456";"no checking account";"existing credits paid back duly till now";"car (used)";"<100 DM";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"457";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";2;"male: single";2;"skilled employee / official";2;"yes";1
+"458";"<0 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";2
+"459";"<0 DM";"existing credits paid back duly till now";"repairs";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"460";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"461";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"male: single";1;"skilled employee / official";2;"yes";1
+"462";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"463";"0-200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";3;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"464";"0-200 DM";"existing credits paid back duly till now";"retraining";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"465";"no checking account";"existing credits paid back duly till now";"business";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"466";"<0 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";3;"male: single";1;"skilled employee / official";2;"yes";1
+"467";"<0 DM";"delay in paying off in the past";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"468";"no checking account";"delay in paying off in the past";"domestic appliances";"unknown/ no savings account";3;"male: single";2;"skilled employee / official";2;"yes";1
+"469";"no checking account";"delay in paying off in the past";"business";"<100 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"470";"no checking account";"delay in paying off in the past";"car (used)";"<100 DM";3;"male: single";2;"unskilled - resident";1;"yes";1
+"471";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";3;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"472";"<0 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"473";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"unskilled - resident";1;"yes";2
+"474";"no checking account";"existing credits paid back duly till now";"retraining";"unknown/ no savings account";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"475";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"476";"<0 DM";"no credits taken/all credits paid back duly";"radio/television";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"477";"no checking account";"existing credits paid back duly till now";"car (used)";"500-1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"478";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"479";"0-200 DM";"existing credits paid back duly till now";"business";"100-500 DM";3;"male: single";1;"unskilled - resident";1;"yes";1
+"480";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"male: single";2;"skilled employee / official";2;"yes";1
+"481";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"482";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"483";"<0 DM";"existing credits paid back duly till now";"radio/television";">=1000 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"484";"no checking account";"delay in paying off in the past";"radio/television";">=1000 DM";3;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"485";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"500-1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"486";"0-200 DM";"delay in paying off in the past";"car (new)";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"487";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"488";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"489";"no checking account";"existing credits paid back duly till now";"car (new)";"100-500 DM";3;"male: single";1;"unskilled - resident";1;"no";1
+"490";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"491";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"492";"0-200 DM";"no credits taken/all credits paid back duly";"business";"<100 DM";2;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"493";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"100-500 DM";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"494";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"495";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";3;"male: single";2;"unskilled - resident";2;"no";1
+"496";"<0 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";2;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"497";"0-200 DM";"existing credits paid back duly till now";"radio/television";"100-500 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"498";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"499";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"500";">=200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"100-500 DM";2;"male: divorced/separated";2;"skilled employee / official";2;"yes";1
+"501";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"502";"<0 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";2;"male: single";1;"skilled employee / official";2;"yes";1
+"503";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";2;"male: divorced/separated";1;"skilled employee / official";1;"yes";1
+"504";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"100-500 DM";4;"male: single";2;"skilled employee / official";2;"yes";2
+"505";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"506";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"male: single";1;"unskilled - resident";1;"yes";2
+"507";">=200 DM";"critical account/other credits existing (not at this bank)";"car (used)";"500-1000 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"508";"0-200 DM";"all credits at this bank paid back duly";"car (new)";"100-500 DM";1;"male: single";1;"management/ self-employed/highly qualified employee/ officer";2;"yes";2
+"509";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"510";"no checking account";"existing credits paid back duly till now";"car (used)";"100-500 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"511";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"512";"no checking account";"existing credits paid back duly till now";"car (used)";"<100 DM";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"513";">=200 DM";"existing credits paid back duly till now";"business";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"514";"0-200 DM";"delay in paying off in the past";"domestic appliances";"<100 DM";4;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"515";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"516";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"no";1
+"517";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";2;"male: single";1;"unskilled - resident";2;"no";1
+"518";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"519";"<0 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"520";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"521";"no checking account";"critical account/other credits existing (not at this bank)";"education";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";1
+"522";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"523";"<0 DM";"no credits taken/all credits paid back duly";"radio/television";"<100 DM";3;"male: single";2;"skilled employee / official";2;"yes";2
+"524";"no checking account";"existing credits paid back duly till now";"car (used)";"100-500 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"525";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"unskilled - resident";2;"yes";1
+"526";"0-200 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"527";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"100-500 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"528";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";2;"male: single";2;"unskilled - resident";2;"yes";1
+"529";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: divorced/separated";1;"skilled employee / official";1;"yes";2
+"530";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"male: single";1;"unskilled - resident";2;"yes";1
+"531";"0-200 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";3;"male: single";2;"skilled employee / official";2;"yes";1
+"532";"0-200 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"533";"no checking account";"delay in paying off in the past";"car (used)";"<100 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"534";"no checking account";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"535";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"536";">=200 DM";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";2;"male: divorced/separated";1;"skilled employee / official";1;"yes";2
+"537";"<0 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"538";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"539";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"540";">=200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"541";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";1;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"542";"no checking account";"delay in paying off in the past";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"543";"<0 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";2
+"544";">=200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"unskilled - resident";2;"yes";2
+"545";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"unskilled - resident";1;"yes";1
+"546";"<0 DM";"delay in paying off in the past";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";2;"yes";2
+"547";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"548";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: single";1;"skilled employee / official";2;"yes";1
+"549";"<0 DM";"all credits at this bank paid back duly";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"550";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"unknown/ no savings account";2;"male: single";2;"skilled employee / official";1;"yes";1
+"551";"no checking account";"critical account/other credits existing (not at this bank)";"education";"unknown/ no savings account";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"552";"no checking account";"all credits at this bank paid back duly";"domestic appliances";"500-1000 DM";2;"male: single";1;"unskilled - resident";2;"yes";1
+"553";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";1;"male: married/widowed";2;"skilled employee / official";1;"yes";2
+"554";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"100-500 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"555";"0-200 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"556";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"557";"0-200 DM";"no credits taken/all credits paid back duly";"car (new)";"100-500 DM";3;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"558";"no checking account";"no credits taken/all credits paid back duly";"car (new)";"unknown/ no savings account";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"559";"<0 DM";"all credits at this bank paid back duly";"radio/television";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";2
+"560";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"male: single";2;"unskilled - resident";1;"yes";2
+"561";"<0 DM";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";2;"yes";1
+"562";"<0 DM";"all credits at this bank paid back duly";"domestic appliances";"<100 DM";4;"male: single";1;"unskilled - resident";1;"yes";2
+"563";">=200 DM";"delay in paying off in the past";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"564";"0-200 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";1;"male: single";1;"skilled employee / official";1;"yes";2
+"565";"0-200 DM";"delay in paying off in the past";"business";"unknown/ no savings account";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"566";"0-200 DM";"delay in paying off in the past";"domestic appliances";"100-500 DM";3;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"567";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: divorced/separated";1;"skilled employee / official";1;"yes";2
+"568";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";">=1000 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"569";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";2;"yes";1
+"570";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"571";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"572";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"573";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";2;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"574";"<0 DM";"existing credits paid back duly till now";"business";"<100 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"575";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";2;"unskilled - resident";1;"yes";1
+"576";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"577";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"578";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"unknown/ no savings account";3;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"579";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: divorced/separated";2;"skilled employee / official";1;"yes";2
+"580";"no checking account";"existing credits paid back duly till now";"retraining";"<100 DM";4;"male: married/widowed";2;"unskilled - resident";1;"yes";1
+"581";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";2
+"582";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"male: single";2;"unskilled - resident";2;"yes";1
+"583";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"584";"0-200 DM";"existing credits paid back duly till now";"education";"<100 DM";4;"male: single";1;"unskilled - resident";1;"yes";2
+"585";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"586";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"587";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";2;"male: single";2;"skilled employee / official";2;"yes";1
+"588";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"unskilled - resident";1;"yes";1
+"589";"<0 DM";"existing credits paid back duly till now";"repairs";"<100 DM";4;"male: married/widowed";1;"unskilled - resident";1;"yes";2
+"590";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";2
+"591";"<0 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";4;"unskilled - resident";1;"yes";1
+"592";"0-200 DM";"delay in paying off in the past";"car (new)";"unknown/ no savings account";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"593";"no checking account";"existing credits paid back duly till now";"business";">=1000 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"594";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"595";"<0 DM";"all credits at this bank paid back duly";"furniture/equipment";"unknown/ no savings account";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"596";"0-200 DM";"all credits at this bank paid back duly";"car (new)";"100-500 DM";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"597";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"598";"0-200 DM";"no credits taken/all credits paid back duly";"business";"<100 DM";1;"male: single";3;"unskilled - resident";1;"yes";2
+"599";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";2
+"600";"no checking account";"delay in paying off in the past";"business";"<100 DM";1;"male: single";1;"skilled employee / official";1;"yes";1
+"601";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"602";"0-200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"603";"0-200 DM";"all credits at this bank paid back duly";"(vacation - does not exist?)";"<100 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"604";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"605";">=200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"606";"<0 DM";"all credits at this bank paid back duly";"radio/television";"500-1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"607";"no checking account";"critical account/other credits existing (not at this bank)";"business";"<100 DM";3;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"608";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"609";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"610";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";2;"yes";1
+"611";"<0 DM";"existing credits paid back duly till now";"repairs";"100-500 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"612";">=200 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";1;"female: divorced/separated/married";1;"unskilled - resident";2;"yes";2
+"613";"<0 DM";"existing credits paid back duly till now";"domestic appliances";">=1000 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"614";"<0 DM";"all credits at this bank paid back duly";"car (used)";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"no";1
+"615";"no checking account";"delay in paying off in the past";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"616";"0-200 DM";"no credits taken/all credits paid back duly";"business";"unknown/ no savings account";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"617";"0-200 DM";"delay in paying off in the past";"domestic appliances";"unknown/ no savings account";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"618";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"male: single";3;"skilled employee / official";2;"yes";1
+"619";"0-200 DM";"existing credits paid back duly till now";"radio/television";"100-500 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"620";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: divorced/separated";1;"unskilled - resident";1;"yes";1
+"621";"0-200 DM";"critical account/other credits existing (not at this bank)";"business";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"622";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";2
+"623";"no checking account";"existing credits paid back duly till now";"business";"unknown/ no savings account";4;"male: divorced/separated";1;"skilled employee / official";1;"yes";2
+"624";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"625";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";2
+"626";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"627";">=200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"628";"0-200 DM";"all credits at this bank paid back duly";"car (new)";"100-500 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"629";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"500-1000 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"630";"no checking account";"existing credits paid back duly till now";"(vacation - does not exist?)";"unknown/ no savings account";1;"male: single";1;"unskilled - resident";1;"yes";1
+"631";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"632";"<0 DM";"all credits at this bank paid back duly";"radio/television";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"633";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"634";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"635";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"636";"no checking account";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"male: single";3;"skilled employee / official";2;"yes";1
+"637";"no checking account";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"638";"no checking account";"delay in paying off in the past";"domestic appliances";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"639";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";2;"yes";1
+"640";"<0 DM";"delay in paying off in the past";"domestic appliances";"<100 DM";3;"male: single";2;"skilled employee / official";2;"yes";2
+"641";"<0 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"female: divorced/separated/married";1;"unemployed/ unskilled  - non-resident";1;"yes";2
+"642";"0-200 DM";"existing credits paid back duly till now";"education";"<100 DM";4;"male: single";2;"unskilled - resident";1;"yes";1
+"643";"no checking account";"existing credits paid back duly till now";"(vacation - does not exist?)";"100-500 DM";3;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"644";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"645";"<0 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: married/widowed";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"646";"no checking account";"delay in paying off in the past";"business";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";2
+"647";"<0 DM";"no credits taken/all credits paid back duly";"radio/television";"<100 DM";2;"male: divorced/separated";2;"skilled employee / official";1;"yes";1
+"648";"no checking account";"existing credits paid back duly till now";"car (new)";"500-1000 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"649";">=200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"skilled employee / official";2;"yes";2
+"650";"<0 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"male: single";1;"unskilled - resident";2;"yes";2
+"651";"<0 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"652";"0-200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"unskilled - resident";1;"yes";2
+"653";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"654";"0-200 DM";"delay in paying off in the past";"car (new)";"100-500 DM";2;"male: single";4;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"655";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"656";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";1;"male: single";1;"skilled employee / official";1;"yes";1
+"657";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"unskilled - resident";2;"yes";2
+"658";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"659";"0-200 DM";"no credits taken/all credits paid back duly";"business";"<100 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"660";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"661";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"662";"<0 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"663";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"664";"0-200 DM";"delay in paying off in the past";"radio/television";"<100 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"665";">=200 DM";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";2;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"666";"no checking account";"critical account/other credits existing (not at this bank)";"furniture/equipment";"<100 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"667";"0-200 DM";"all credits at this bank paid back duly";"radio/television";">=1000 DM";4;"male: single";1;"skilled employee / official";2;"yes";1
+"668";"no checking account";"all credits at this bank paid back duly";"business";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"669";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";2
+"670";">=200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"671";"no checking account";"critical account/other credits existing (not at this bank)";"business";"100-500 DM";3;"male: single";2;"unskilled - resident";1;"yes";1
+"672";"no checking account";"existing credits paid back duly till now";"business";"100-500 DM";2;"male: single";2;"skilled employee / official";1;"yes";1
+"673";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"674";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"500-1000 DM";1;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"675";"no checking account";"delay in paying off in the past";"business";"500-1000 DM";4;"male: single";1;"unskilled - resident";2;"yes";2
+"676";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"677";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"678";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";2;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"679";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"unskilled - resident";1;"yes";1
+"680";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"681";"no checking account";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"682";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"683";"no checking account";"delay in paying off in the past";"domestic appliances";"<100 DM";4;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"684";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";3;"male: married/widowed";3;"skilled employee / official";1;"yes";1
+"685";"0-200 DM";"delay in paying off in the past";"business";"100-500 DM";1;"male: single";2;"unskilled - resident";2;"yes";1
+"686";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";2;"yes";1
+"687";">=200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"688";"0-200 DM";"delay in paying off in the past";"car (new)";"100-500 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"689";"no checking account";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"690";"<0 DM";"existing credits paid back duly till now";"car (new)";">=1000 DM";1;"male: single";1;"skilled employee / official";2;"yes";1
+"691";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"male: divorced/separated";2;"skilled employee / official";1;"yes";1
+"692";"0-200 DM";"existing credits paid back duly till now";"education";"100-500 DM";3;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"693";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"694";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"unknown/ no savings account";1;"male: single";2;"unskilled - resident";2;"yes";1
+"695";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"696";"no checking account";"existing credits paid back duly till now";"car (used)";"500-1000 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"697";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"no";1
+"698";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"female: divorced/separated/married";1;"unemployed/ unskilled  - non-resident";1;"yes";1
+"699";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"700";">=200 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"701";"no checking account";"existing credits paid back duly till now";"radio/television";"500-1000 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"702";"<0 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";2
+"703";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"704";"0-200 DM";"delay in paying off in the past";"business";"100-500 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"705";"0-200 DM";"existing credits paid back duly till now";"business";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";2;"yes";1
+"706";"no checking account";"existing credits paid back duly till now";"car (new)";"500-1000 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"707";"0-200 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";3;"male: single";1;"skilled employee / official";1;"yes";2
+"708";"0-200 DM";"no credits taken/all credits paid back duly";"radio/television";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"709";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"710";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"male: single";1;"unskilled - resident";2;"yes";1
+"711";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"500-1000 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"712";"<0 DM";"all credits at this bank paid back duly";"(vacation - does not exist?)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"713";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"714";"<0 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";2;"unskilled - resident";1;"yes";1
+"715";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"716";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"unknown/ no savings account";1;"male: single";2;"skilled employee / official";1;"yes";1
+"717";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";3;"male: single";2;"skilled employee / official";2;"yes";1
+"718";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"719";">=200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";3;"male: single";2;"skilled employee / official";1;"yes";1
+"720";"0-200 DM";"no credits taken/all credits paid back duly";"car (used)";"100-500 DM";3;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"721";">=200 DM";"no credits taken/all credits paid back duly";"domestic appliances";"<100 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"722";"0-200 DM";"all credits at this bank paid back duly";"(vacation - does not exist?)";">=1000 DM";4;"female: divorced/separated/married";1;"skilled employee / official";2;"yes";2
+"723";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"724";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"725";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"726";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";">=1000 DM";2;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"727";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"500-1000 DM";2;"male: married/widowed";2;"unskilled - resident";1;"yes";1
+"728";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"729";"0-200 DM";"all credits at this bank paid back duly";"business";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"730";">=200 DM";"critical account/other credits existing (not at this bank)";"business";">=1000 DM";2;"male: divorced/separated";2;"skilled employee / official";1;"yes";1
+"731";"0-200 DM";"delay in paying off in the past";"domestic appliances";"<100 DM";1;"male: single";1;"skilled employee / official";1;"yes";1
+"732";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"male: single";1;"unskilled - resident";2;"yes";2
+"733";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"734";"no checking account";"existing credits paid back duly till now";"car (used)";">=1000 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"735";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";2;"yes";1
+"736";"0-200 DM";"all credits at this bank paid back duly";"repairs";"unknown/ no savings account";3;"female: divorced/separated/married";1;"unemployed/ unskilled  - non-resident";1;"yes";1
+"737";"0-200 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";1;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"738";"<0 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";3;"male: single";1;"unskilled - resident";2;"yes";1
+"739";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"male: single";2;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"740";"0-200 DM";"no credits taken/all credits paid back duly";"business";"100-500 DM";4;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";2
+"741";"<0 DM";"all credits at this bank paid back duly";"car (new)";"100-500 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"742";"0-200 DM";"all credits at this bank paid back duly";"domestic appliances";"<100 DM";4;"male: single";1;"unskilled - resident";1;"yes";1
+"743";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"744";"<0 DM";"all credits at this bank paid back duly";"radio/television";"500-1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"745";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"unknown/ no savings account";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"746";"<0 DM";"critical account/other credits existing (not at this bank)";"business";"<100 DM";3;"male: single";2;"unskilled - resident";1;"yes";1
+"747";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"748";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"749";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";1;"male: single";1;"skilled employee / official";1;"yes";1
+"750";"no checking account";"existing credits paid back duly till now";"car (used)";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"751";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"752";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"753";"0-200 DM";"existing credits paid back duly till now";"business";"100-500 DM";2;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"754";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"755";"no checking account";"delay in paying off in the past";"education";">=1000 DM";4;"male: single";2;"skilled employee / official";2;"yes";2
+"756";"<0 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"757";">=200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"male: single";3;"unemployed/ unskilled  - non-resident";2;"no";1
+"758";">=200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";3;"male: single";2;"skilled employee / official";1;"yes";2
+"759";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"760";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";2
+"761";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"unknown/ no savings account";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"762";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";2
+"763";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"unskilled - resident";1;"yes";1
+"764";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"unknown/ no savings account";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"765";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"100-500 DM";4;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"766";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: married/widowed";2;"unskilled - resident";1;"yes";1
+"767";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: divorced/separated";1;"unskilled - resident";1;"yes";2
+"768";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";1;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"769";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";1;"male: single";3;"skilled employee / official";1;"yes";1
+"770";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";2;"male: single";2;"unskilled - resident";1;"yes";1
+"771";"<0 DM";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"772";"<0 DM";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";3;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"773";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";1;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"774";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"100-500 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"775";">=200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"500-1000 DM";2;"male: single";3;"unemployed/ unskilled  - non-resident";1;"yes";1
+"776";"<0 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"777";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"778";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"779";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";">=1000 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"780";"0-200 DM";"existing credits paid back duly till now";"education";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"781";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";2
+"782";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";">=1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"783";"0-200 DM";"no credits taken/all credits paid back duly";"retraining";"<100 DM";2;"male: single";1;"unskilled - resident";1;"yes";1
+"784";"0-200 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";4;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"785";"0-200 DM";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";1;"male: divorced/separated";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"786";"0-200 DM";"existing credits paid back duly till now";"business";">=1000 DM";4;"male: single";1;"unskilled - resident";1;"yes";1
+"787";"no checking account";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"788";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";2;"yes";1
+"789";"0-200 DM";"delay in paying off in the past";"(vacation - does not exist?)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"790";"<0 DM";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"791";"0-200 DM";"existing credits paid back duly till now";"business";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";2;"yes";2
+"792";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";3;"male: single";1;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"793";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"unknown/ no savings account";1;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"794";">=200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";3;"male: divorced/separated";1;"skilled employee / official";1;"yes";1
+"795";"no checking account";"existing credits paid back duly till now";"radio/television";"500-1000 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"796";"no checking account";"existing credits paid back duly till now";"radio/television";"100-500 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"797";"<0 DM";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";1;"male: single";1;"skilled employee / official";2;"yes";2
+"798";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"799";"no checking account";"delay in paying off in the past";"car (new)";"unknown/ no savings account";4;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"800";"0-200 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"male: single";1;"unemployed/ unskilled  - non-resident";1;"yes";1
+"801";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"<100 DM";4;"male: single";2;"skilled employee / official";2;"yes";1
+"802";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";3;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"803";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"804";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"805";"0-200 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";1;"female: divorced/separated/married";1;"unemployed/ unskilled  - non-resident";1;"yes";1
+"806";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"807";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: married/widowed";1;"unskilled - resident";1;"no";1
+"808";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";4;"skilled employee / official";1;"yes";1
+"809";"0-200 DM";"all credits at this bank paid back duly";"car (used)";"<100 DM";1;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"810";"0-200 DM";"no credits taken/all credits paid back duly";"car (new)";"<100 DM";2;"female: divorced/separated/married";2;"unemployed/ unskilled  - non-resident";1;"yes";2
+"811";"0-200 DM";"existing credits paid back duly till now";"business";"<100 DM";3;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"812";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"813";"<0 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";2
+"814";"<0 DM";"existing credits paid back duly till now";"repairs";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";2
+"815";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: single";1;"skilled employee / official";2;"yes";2
+"816";"0-200 DM";"delay in paying off in the past";"car (new)";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"817";"no checking account";"existing credits paid back duly till now";"repairs";"500-1000 DM";1;"male: divorced/separated";1;"skilled employee / official";1;"yes";1
+"818";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"819";"<0 DM";"existing credits paid back duly till now";"furniture/equipment";"<100 DM";2;"male: divorced/separated";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"820";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"821";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"822";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"823";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";2;"yes";2
+"824";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"unskilled - resident";1;"yes";1
+"825";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";3;"male: divorced/separated";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"826";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"827";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"female: divorced/separated/married";3;"skilled employee / official";1;"yes";2
+"828";"no checking account";"no credits taken/all credits paid back duly";"business";"<100 DM";2;"male: single";2;"skilled employee / official";2;"yes";2
+"829";"<0 DM";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";3;"male: single";1;"skilled employee / official";1;"yes";2
+"830";"0-200 DM";"delay in paying off in the past";"business";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";2;"yes";1
+"831";"no checking account";"delay in paying off in the past";"business";"500-1000 DM";4;"male: single";2;"skilled employee / official";2;"yes";1
+"832";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"833";"<0 DM";"no credits taken/all credits paid back duly";"business";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";2
+"834";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"835";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"836";"<0 DM";"no credits taken/all credits paid back duly";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";2
+"837";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"838";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";1;"female: divorced/separated/married";1;"unskilled - resident";2;"yes";1
+"839";"<0 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"840";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"841";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"842";"no checking account";"delay in paying off in the past";"car (used)";"<100 DM";3;"male: single";2;"unskilled - resident";1;"yes";1
+"843";"no checking account";"existing credits paid back duly till now";"education";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"844";"no checking account";"all credits at this bank paid back duly";"business";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"845";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";3;"skilled employee / official";2;"yes";1
+"846";"0-200 DM";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";2;"male: single";1;"skilled employee / official";1;"yes";1
+"847";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";2;"male: single";2;"skilled employee / official";1;"yes";2
+"848";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"849";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"male: single";1;"skilled employee / official";1;"yes";1
+"850";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"unskilled - resident";1;"yes";2
+"851";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: married/widowed";2;"skilled employee / official";1;"no";2
+"852";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"unknown/ no savings account";3;"male: single";2;"skilled employee / official";1;"yes";1
+"853";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"854";"<0 DM";"all credits at this bank paid back duly";"car (new)";"<100 DM";4;"male: single";2;"unskilled - resident";2;"yes";2
+"855";"no checking account";"delay in paying off in the past";"car (new)";"<100 DM";2;"male: single";2;"skilled employee / official";2;"yes";1
+"856";"no checking account";"existing credits paid back duly till now";"car (new)";"100-500 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"857";"no checking account";"existing credits paid back duly till now";"retraining";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"858";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"859";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"860";"no checking account";"existing credits paid back duly till now";"car (new)";"100-500 DM";1;"male: single";1;"skilled employee / official";2;"no";1
+"861";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";">=1000 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"862";"no checking account";"delay in paying off in the past";"business";"<100 DM";4;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"863";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"864";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";">=1000 DM";4;"male: single";2;"unskilled - resident";2;"yes";1
+"865";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"unskilled - resident";1;"yes";2
+"866";"no checking account";"existing credits paid back duly till now";"radio/television";"500-1000 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"867";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"868";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";1
+"869";"no checking account";"existing credits paid back duly till now";"business";"unknown/ no savings account";3;"male: single";2;"skilled employee / official";1;"yes";1
+"870";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"871";"no checking account";"delay in paying off in the past";"radio/television";"500-1000 DM";2;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"872";">=200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"male: single";2;"skilled employee / official";2;"no";1
+"873";"<0 DM";"critical account/other credits existing (not at this bank)";"business";"100-500 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"874";"no checking account";"existing credits paid back duly till now";"repairs";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"875";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"unskilled - resident";2;"yes";1
+"876";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";">=1000 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"877";"<0 DM";"all credits at this bank paid back duly";"domestic appliances";"<100 DM";3;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"878";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"879";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"880";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";2;"male: single";2;"skilled employee / official";1;"yes";1
+"881";"no checking account";"existing credits paid back duly till now";"car (used)";"<100 DM";3;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"882";"no checking account";"existing credits paid back duly till now";"car (used)";"unknown/ no savings account";2;"male: divorced/separated";1;"skilled employee / official";1;"yes";1
+"883";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (new)";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"884";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";2;"unemployed/ unskilled  - non-resident";1;"yes";1
+"885";"0-200 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";3;"male: divorced/separated";1;"skilled employee / official";1;"yes";2
+"886";"<0 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"887";"0-200 DM";"critical account/other credits existing (not at this bank)";"business";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";2;"yes";1
+"888";"0-200 DM";"existing credits paid back duly till now";"business";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"889";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"890";"no checking account";"all credits at this bank paid back duly";"car (used)";"unknown/ no savings account";3;"male: single";2;"skilled employee / official";2;"yes";1
+"891";"<0 DM";"critical account/other credits existing (not at this bank)";"business";"<100 DM";4;"male: single";4;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"892";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";1
+"893";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";4;"male: single";2;"unskilled - resident";1;"no";1
+"894";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (used)";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";1
+"895";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"896";"no checking account";"delay in paying off in the past";"car (used)";"unknown/ no savings account";3;"male: single";1;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"897";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"898";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";">=1000 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"no";1
+"899";"no checking account";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"900";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"901";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"902";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"unknown/ no savings account";2;"male: divorced/separated";2;"skilled employee / official";1;"yes";1
+"903";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"unknown/ no savings account";2;"male: single";2;"skilled employee / official";1;"yes";1
+"904";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"905";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"906";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"907";"<0 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";2;"male: single";1;"unskilled - resident";1;"no";1
+"908";"0-200 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"unknown/ no savings account";2;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"909";"no checking account";"delay in paying off in the past";"car (used)";"<100 DM";1;"female: divorced/separated/married";2;"unskilled - resident";1;"yes";1
+"910";"0-200 DM";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";1;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"911";"no checking account";"delay in paying off in the past";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"912";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"913";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"914";"no checking account";"existing credits paid back duly till now";"business";">=1000 DM";1;"male: divorced/separated";1;"skilled employee / official";1;"yes";1
+"915";"<0 DM";"all credits at this bank paid back duly";"business";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"916";"0-200 DM";"no credits taken/all credits paid back duly";"furniture/equipment";"<100 DM";1;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"no";2
+"917";"no checking account";"existing credits paid back duly till now";"car (used)";"100-500 DM";1;"male: single";1;"skilled employee / official";2;"yes";1
+"918";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";1;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"919";"<0 DM";"existing credits paid back duly till now";"radio/television";"100-500 DM";1;"male: divorced/separated";1;"skilled employee / official";1;"yes";2
+"920";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"921";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"922";"no checking account";"delay in paying off in the past";"domestic appliances";"500-1000 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"923";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"924";"0-200 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"male: single";1;"skilled employee / official";2;"yes";1
+"925";"<0 DM";"all credits at this bank paid back duly";"radio/television";"<100 DM";2;"male: divorced/separated";1;"skilled employee / official";1;"yes";2
+"926";"<0 DM";"all credits at this bank paid back duly";"car (new)";"<100 DM";4;"male: single";2;"skilled employee / official";1;"yes";2
+"927";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"928";"<0 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";4;"male: single";3;"skilled employee / official";2;"yes";2
+"929";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"930";"<0 DM";"delay in paying off in the past";"car (new)";"<100 DM";4;"male: single";2;"unskilled - resident";2;"yes";1
+"931";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"unskilled - resident";1;"no";1
+"932";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"933";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";3;"male: single";2;"skilled employee / official";1;"yes";1
+"934";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"500-1000 DM";4;"male: single";2;"skilled employee / official";2;"yes";1
+"935";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"936";"0-200 DM";"delay in paying off in the past";"domestic appliances";"100-500 DM";4;"male: single";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"937";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";3;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";2
+"938";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: married/widowed";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"939";"0-200 DM";"existing credits paid back duly till now";"(vacation - does not exist?)";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"940";"no checking account";"critical account/other credits existing (not at this bank)";"car (used)";"unknown/ no savings account";2;"male: single";2;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"941";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";2;"male: single";1;"management/ self-employed/highly qualified employee/ officer";2;"yes";1
+"942";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"male: single";1;"unskilled - resident";2;"no";1
+"943";"no checking account";"existing credits paid back duly till now";"radio/television";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"944";"no checking account";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";2;"male: single";3;"unskilled - resident";2;"yes";1
+"945";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"946";"0-200 DM";"no credits taken/all credits paid back duly";"car (new)";"500-1000 DM";1;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"947";"<0 DM";"all credits at this bank paid back duly";"radio/television";"500-1000 DM";4;"male: single";1;"skilled employee / official";2;"yes";2
+"948";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"949";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: married/widowed";1;"unskilled - resident";2;"yes";2
+"950";"no checking account";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";2;"male: single";2;"skilled employee / official";1;"yes";2
+"951";"0-200 DM";"critical account/other credits existing (not at this bank)";"business";"<100 DM";3;"male: married/widowed";3;"unemployed/ unskilled  - non-resident";2;"yes";1
+"952";"<0 DM";"delay in paying off in the past";"business";"<100 DM";2;"male: single";2;"skilled employee / official";1;"yes";2
+"953";"0-200 DM";"existing credits paid back duly till now";"car (used)";"500-1000 DM";3;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";2
+"954";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"955";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"956";"<0 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";">=1000 DM";4;"female: divorced/separated/married";2;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"957";">=200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"unknown/ no savings account";4;"male: single";2;"unskilled - resident";1;"yes";1
+"958";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";2;"male: single";3;"unskilled - resident";1;"yes";1
+"959";"<0 DM";"existing credits paid back duly till now";"car (new)";"<100 DM";3;"male: single";1;"unskilled - resident";1;"yes";2
+"960";"0-200 DM";"existing credits paid back duly till now";"radio/television";"100-500 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"961";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";2;"male: married/widowed";2;"skilled employee / official";1;"yes";1
+"962";"0-200 DM";"delay in paying off in the past";"car (new)";"<100 DM";1;"male: divorced/separated";2;"skilled employee / official";1;"yes";1
+"963";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";3;"male: single";1;"skilled employee / official";1;"yes";1
+"964";"no checking account";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";3;"male: single";2;"skilled employee / official";1;"yes";2
+"965";"0-200 DM";"existing credits paid back duly till now";"education";"<100 DM";3;"male: married/widowed";1;"unskilled - resident";1;"yes";1
+"966";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"967";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"500-1000 DM";4;"male: single";2;"unskilled - resident";1;"yes";2
+"968";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"969";"no checking account";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";2;"male: married/widowed";1;"skilled employee / official";1;"yes";1
+"970";"<0 DM";"critical account/other credits existing (not at this bank)";"car (new)";"<100 DM";1;"male: single";2;"unskilled - resident";2;"yes";1
+"971";"0-200 DM";"existing credits paid back duly till now";"education";"100-500 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"972";"no checking account";"existing credits paid back duly till now";"car (new)";"<100 DM";1;"male: single";1;"unskilled - resident";2;"yes";1
+"973";"<0 DM";"all credits at this bank paid back duly";"car (new)";"<100 DM";1;"female: divorced/separated/married";2;"unemployed/ unskilled  - non-resident";1;"yes";2
+"974";"<0 DM";"existing credits paid back duly till now";"business";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"975";"no checking account";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"976";">=200 DM";"existing credits paid back duly till now";"domestic appliances";"500-1000 DM";3;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"977";"0-200 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"978";"0-200 DM";"delay in paying off in the past";"business";"unknown/ no savings account";4;"male: single";2;"skilled employee / official";1;"yes";1
+"979";"no checking account";"delay in paying off in the past";"car (new)";"<100 DM";4;"male: single";2;"unskilled - resident";2;"yes";2
+"980";"0-200 DM";"all credits at this bank paid back duly";"car (new)";"100-500 DM";2;"male: married/widowed";1;"skilled employee / official";1;"yes";2
+"981";"0-200 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"male: single";1;"skilled employee / official";1;"yes";2
+"982";"no checking account";"existing credits paid back duly till now";"business";"<100 DM";3;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";2
+"983";">=200 DM";"existing credits paid back duly till now";"car (new)";"100-500 DM";1;"female: divorced/separated/married";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"984";"<0 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";2;"male: single";1;"skilled employee / official";2;"yes";2
+"985";"no checking account";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";2;"male: single";2;"unskilled - resident";1;"yes";1
+"986";"<0 DM";"critical account/other credits existing (not at this bank)";"radio/television";"<100 DM";4;"female: divorced/separated/married";2;"skilled employee / official";1;"yes";1
+"987";">=200 DM";"no credits taken/all credits paid back duly";"business";"<100 DM";2;"male: divorced/separated";2;"skilled employee / official";1;"yes";1
+"988";"no checking account";"existing credits paid back duly till now";"domestic appliances";"100-500 DM";2;"female: divorced/separated/married";1;"skilled employee / official";1;"yes";1
+"989";"<0 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"990";"0-200 DM";"critical account/other credits existing (not at this bank)";"domestic appliances";"<100 DM";4;"male: single";2;"unskilled - resident";1;"yes";1
+"991";"no checking account";"critical account/other credits existing (not at this bank)";"(vacation - does not exist?)";"unknown/ no savings account";2;"male: single";2;"unskilled - resident";2;"yes";1
+"992";"no checking account";"all credits at this bank paid back duly";"domestic appliances";"100-500 DM";4;"male: single";1;"unskilled - resident";2;"yes";1
+"993";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"unknown/ no savings account";2;"male: married/widowed";2;"unskilled - resident";1;"yes";1
+"994";"<0 DM";"existing credits paid back duly till now";"radio/television";"<100 DM";4;"male: single";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"995";"no checking account";"existing credits paid back duly till now";"car (new)";"unknown/ no savings account";4;"male: single";1;"skilled employee / official";1;"yes";1
+"996";"no checking account";"existing credits paid back duly till now";"radio/television";"<100 DM";3;"female: divorced/separated/married";1;"unskilled - resident";1;"yes";1
+"997";"<0 DM";"existing credits paid back duly till now";"car (used)";"<100 DM";4;"male: divorced/separated";1;"management/ self-employed/highly qualified employee/ officer";1;"yes";1
+"998";"no checking account";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";1
+"999";"<0 DM";"existing credits paid back duly till now";"domestic appliances";"<100 DM";4;"male: single";1;"skilled employee / official";1;"yes";2
+"1000";"0-200 DM";"critical account/other credits existing (not at this bank)";"car (used)";"100-500 DM";3;"male: single";1;"skilled employee / official";1;"yes";1

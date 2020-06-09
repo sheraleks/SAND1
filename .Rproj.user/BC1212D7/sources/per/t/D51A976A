@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591686438276.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "499005990",
+    "id" : "D51A976A",
+    "lastKnownWriteTime" : 1590293499,
+    "last_content_update" : 1590293499,
+    "path" : "C:/Users/aleks/OneDrive - corp.nstu.ru/НГТУ/Cтатистический анализ нечисловых данных/LR1/Архив/Попытка 2/R/lr1 R.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "114,0",
+        "scrollLine" : "102"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

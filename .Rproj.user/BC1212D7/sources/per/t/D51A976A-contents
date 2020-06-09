@@ -1,0 +1,171 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+```{r}
+setwd("C:/")
+
+
+```
+
+```{r}
+library('DescTools')
+```
+
+
+```{r}
+a = as.vector(category[["Credit.history"]])
+b = as.vector(category[["Status"]])
+```
+
+```{r}
+GoodmanKruskalGamma(a, b)
+```
+
+```{r}
+vector <- c()
+for (row in names(category))
+{
+  for (col in names(category))
+  {
+    a = as.vector(category[[row]])
+    b = as.vector(category[[col]])
+    coeff = GoodmanKruskalGamma(a, b)
+    vector <- c(vector, coeff)
+  }
+}
+krusk = matrix(vector,nrow=ncol(category),ncol=ncol(category))
+colnames(krusk) = names(category)
+krusk = as.data.frame(krusk, row.names = names(category))
+```
+
+```{r}
+krusk
+```
+```{r}
+library("writexl")
+write_xlsx(krusk,"C:\\SAND\\krusk.xlsx")
+```
+
+```{r}
+library('MESS')
+library('vcdExtra')
+a = as.vector(category[['Status']])
+b = as.vector(category[['Credit.history']])
+myTable = table(a, b)
+gkgamma(myTable)
+```
+
+
+```{r}
+vector <- c()
+for (row in names(category))
+{
+  for (col in names(category))
+  {
+    a = as.vector(category[[row]])
+    b = as.vector(category[[col]])
+    myTable = table(a, b)
+    coeff = gkgamma(myTable)[2]$p.value
+    vector <- c(vector, coeff)
+  }
+}
+krusk_sign = matrix(vector,nrow=ncol(category),ncol=ncol(category))
+colnames(krusk_sign) = names(category)
+krusk_sign = as.data.frame(krusk_sign, row.names = names(category))
+krusk_sign
+```
+
+```{r}
+library('DiscriMiner')
+b = as.vector(category[['Credit.history']])
+a = as.vector(num[['Number.of.people']])
+FRatio(a, b)
+
+
+```
+
+```{r}
+vector <- c()
+for (row in names(category))
+{
+  a = as.vector(category[[row]])
+  for (col in names(num))
+  {
+    b = as.vector(num[[col]])
+    coeff = FRatio(a, b)
+    vector <- c(vector, coeff)
+  }
+}
+corrat = matrix(vector,nrow=ncol(num),ncol=ncol(category))
+colnames(corrat) = names(category)
+corrat = as.data.frame(corrat, row.names = names(num))
+corrat
+```
+
+```{r}
+write_xlsx(corrat,"C:\\SAND\\corrat2.xlsx")
+```
+
+```{r}
+vector <- c()
+for (row in names(category))
+{
+  a = as.vector(category[[row]])
+  for (col in names(num))
+  {
+    b = as.vector(num[[col]])
+    coeff = FRatio(a, b)[1][['F']]
+    vector <- c(vector, coeff)
+  }
+}
+Fr = matrix(vector,nrow=ncol(num),ncol=ncol(category))
+colnames(Fr) = names(category)
+Fr = as.data.frame(Fr, row.names = names(num))
+Fr
+write_xlsx(FR,"C:\\SAND\\FR2.xlsx")
+```
+
+```{r}
+library('maigesPack')
+b = as.vector(category[['Purpose']])
+a = as.vector(category[['Savings.account']])
+bootstrapMI(a, b, 1000)
+```
+```{r}
+vector <- c()
+for (row in names(category))
+{
+  for (col in names(category))
+  {
+    a = as.vector(category[[row]])
+    b = as.vector(category[[col]])
+    coeff = bootstrapMI(a, b, 1000)
+    vector <- c(vector, coeff)
+  }
+}
+mi_p = matrix(vector,nrow=ncol(category),ncol=ncol(category))
+colnames(mi_p) = names(category)
+mi_p = as.data.frame(mi_p, row.names = names(category))
+mi_p 
+```
+
+```{r}
+write_xlsx(mi_p,"C:\\SAND\\mi_p.xlsx")
+```
+
